@@ -21,7 +21,7 @@ Aplikasi ini mengimplementasikan sistem manajemen data penuh (Full CRUD) yang di
 
 ## 🛠️ Spesifikasi Teknis & Prasyarat
 
-Untuk menjalankan atau mengembangkan proyek ini kembali, pastikan lingkungan perangkat lunak Anda memenuhi spesifikasi berikut:
+Untuk menjalankan atau mengembangkan proyek ini kembali, pastikan lingkungan perangkat lunak memenuhi spesifikasi berikut:
 
 *   **IDE:** Apache NetBeans (Versi 29 atau yang kompatibel)
 *   **JDK:** Java Development Kit versi 25.0.2
